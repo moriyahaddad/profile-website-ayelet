@@ -1,1 +1,1 @@
-This is my first trying of creating website, wish me luck!
+This is my first try of creating website, wish me luck!
