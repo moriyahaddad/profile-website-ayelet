@@ -1,5 +1,5 @@
 body {
-    font-family:Tahoma; 
+    font-family:'Rubik', sans-serif; 
     background-color: #a4dbd5;
     margin: 0;
     padding: 0;
@@ -75,4 +75,26 @@ button {
 
 button:hover {
     background-color: #146b6a;
+}
+
+h1, h2, h3 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700; /* עושה את הכותרות בולטות */
+    letter-spacing: 1px; /* מוסיף ריווח בין האותיות */
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+button {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase; /* הופך אותיות לגדולות */
+}
+.hidden {
+    display: none;
 }
